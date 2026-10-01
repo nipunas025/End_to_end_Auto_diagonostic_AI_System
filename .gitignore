@@ -2,4 +2,8 @@
 __pycache__/
 *.pyc
 .env
-node_modules/ 
+venv/
+node_modules/
+dist/
+.expo/
+*.local
